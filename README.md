@@ -2,7 +2,7 @@
 a simple culculator in command line
 who doesn't like command line?
 
-#Features
+# Features
 -Sum
 -Subtraction
 -Moltiplication
