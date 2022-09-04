@@ -1,9 +1,9 @@
 # CMD-Calculator
-a simple culculator in command line
+a simple culculator in command line\n
 who doesn't like command line?
 
 # Features
--Sum
--Subtraction
--Moltiplication
--Division
+-Sum\n
+-Subtraction\n
+-Moltiplication\n
+-Division\n
