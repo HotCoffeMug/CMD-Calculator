@@ -45,6 +45,8 @@ int main() { //define main class.
 		std::cout << "Insert the second number: "; //print a sentence.
 		std::cin >> b; //assign the value of the user input to B.
 		std::cout << a+b; //print the sum of A and B
+		std::cout << "\n";
+		system("pause");
     	
     	
 		} else if (input == "2") {
@@ -58,6 +60,8 @@ int main() { //define main class.
 		std::cout << "Insert the second number: "; //print a sentence.
 		std::cin >> b; //assign the value of the user input to B.
 		std::cout << a-b; //print the subtraction of A and B
+		std::cout << "\n";
+		system("pause");
     	
     	} else if (input == "3") {
     	// do something else
@@ -70,6 +74,8 @@ int main() { //define main class.
 		std::cout << "Insert the second number: "; //print a sentence.
 		std::cin >> b; //assign the value of the user input to B.
 		std::cout << a*b; //print the moltiplication of A and B
+		std::cout << "\n";
+		system("pause");
     	
     	} else if (input == "4") {
     	// do something else
@@ -82,6 +88,8 @@ int main() { //define main class.
 		std::cout << "Insert the second number: "; //print a sentence.
 		std::cin >> b; //assign the value of the user input to B.
 		std::cout << a/b; //print the division of A and B
+		std::cout << "\n";
+		system("pause");
     }
 
 	return 0;
